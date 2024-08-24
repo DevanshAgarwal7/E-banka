@@ -1,0 +1,6 @@
+@media print {
+    html, body {
+        margin: 10px;
+        overflow: hidden;
+      }
+}

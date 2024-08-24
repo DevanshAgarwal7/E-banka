@@ -1,0 +1,17 @@
+.signup_component{
+    padding-top: 0vh;
+}
+.logo_image{
+    width: 300px;
+    height: 420px;
+}
+.submit_button{
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+@media (max-width: 552px) {
+    .home_component{
+        padding-top: 5vh;
+    }
+}

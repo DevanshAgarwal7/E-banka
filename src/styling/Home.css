@@ -1,0 +1,13 @@
+.home_component{
+    padding-top: 10vh;
+}
+.logo_image{
+    width: 237px;
+    height: 265px;
+}
+
+@media (max-width: 552px) {
+    .home_component{
+        padding-top: 5vh;
+    }
+}

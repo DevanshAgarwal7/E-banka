@@ -1,0 +1,21 @@
+.toggle-items{
+    position: absolute;
+    margin-left: -10px;
+    background-color: white;
+    z-index: 100;
+    width: 100px;
+    cursor: pointer;
+}
+
+@media (max-width: 980px) {
+    .toggle-items{
+        position: absolute;
+        list-style-type: none;
+        margin-left: -139px;
+        margin-top: 44px;
+        background-color: white;
+        z-index: 100;
+        width: 200px;
+        cursor: pointer;
+    }
+}
